@@ -6,6 +6,8 @@ I'm currently learning c++ (just out of personal interest)
 
 What I currently know : JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM.
 
+I run Linux as my OS. I switch distros occassionally. Right now I'm on mint.
+
 What I'm currently working on:
 
 Right now, as I mentioned, I am exploring what I can make with c++. I decided to give SDL2 a try and have been working on that.
