@@ -1,6 +1,6 @@
 
 #Hi There!
-I'm Cameron, A Web Developer based in Edmonton. I specialize in online applications, I love coding and alot of the time you will find me working on projects unrelated to Web Development.
+##I'm Cameron, A Web Developer based in Edmonton. I specialize in online applications, I love coding and alot of the time you will find me working on projects unrelated to Web Development.
 
 I'm currently learning c++ (just out of personal interest)
 
