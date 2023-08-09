@@ -17,7 +17,11 @@ Dagoth Ur Discord Bot: A relatively simple discord bot, it uses openAIs API and 
 
 Photography webpage: A fullstack application that hosts images that I personally take. It uses python and mariadb, with the frontend being Vue.js. This was my first real web application, it could be nicer, but i'm proud of it! https://photography.cameron-ord.online/#/
 
-Online portfolio: A simple frontend deployment, lists my projects, skills, tied together with a nice about me. You can view my projects and their respective websites(if they have one), as well as download my CV, and view my linkedin or github.
+Online portfolio: A simple frontend deployment, lists my projects, skills, tied together with a nice about me. You can view my projects and their respective websites(if they have one), as well as download my CV, and view my linkedin or github. https://portfolio.cameron-ord.online/#/
+
+if you wish to contact me, here is my email! : 
+
+cameron.ian.ronald.ord@outlook.com
 
 <!--
 **Cameron-Ord/Cameron-Ord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
