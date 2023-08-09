@@ -4,7 +4,7 @@ I'm Cameron, A Web Developer based in Edmonton. I specialize in online applicati
 
 I'm currently learning c++ (just out of personal interest)
 
-What I currently know : JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache for my webhosting.
+What I currently know : JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache and an oracle VM for my webhosting.
 
 I run Linux as my OS. I switch distros occassionally; Right now I'm on mint.
 
