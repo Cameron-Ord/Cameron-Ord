@@ -6,7 +6,7 @@ I'm currently learning c++ (just out of personal interest)
 
 What I currently know : JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache and an oracle VM for my webhosting.
 
-I run Linux as my OS. I switch distros occassionally; Right now I'm on mint.
+I run Linux as my OS. Currently I run Cinnamon Mint with dwm, and VM into other distros whenever I want to try something new.
 
 What I'm currently working on:
 
