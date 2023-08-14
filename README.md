@@ -4,7 +4,7 @@ I'm Cameron, A new Junior Developer based in Edmonton, AB. I specialize in onlin
 
 I'm know C, C++ on a basic level.
 
-What I currently know : JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache and an oracle VM for my webhosting.
+What I currently have knowledge & experience in: JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache and an oracle VM for my webhosting.
 
 I run Linux as my OS(Arch, Mint).
 
