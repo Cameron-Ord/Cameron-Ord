@@ -2,11 +2,11 @@
 Hi There!
 I'm Cameron, A new Junior Developer based in Edmonton, AB. I specialize in online web applications. I love coding, and while I mainly build websites; alot of the time you will find me working on projects unrelated to strictly Web Development.
 
-I'm currently learning c++ (just out of personal interest)
+I'm know C, C++ on a basic level.
 
 What I currently know : JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache and an oracle VM for my webhosting.
 
-I run Linux as my OS. Currently I run Cinnamon Mint, and VM into other distros whenever I want to try something new.
+I run Linux as my OS(Arch, Mint).
 
 What I'm currently working on:
 
