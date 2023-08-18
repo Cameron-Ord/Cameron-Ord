@@ -13,7 +13,7 @@ What I'm currently working on:
 Right now, as I mentioned, I am exploring what I can make with c++. I decided to give SDL2 a try and have been working on that. 
 I am also working on a python/C++ project that uses python for the GUI and runs C++ as a subprocess. The goal of the end product is to be a desktop executable application that a user can use to generate a viable build in the video game Underrail based off some selectors and inputs.
 
-After this project I intend to move on to building a native mobile app using Ionic and Capacitor. My idea right now is for a songwriting assistant app, with the main functionality being a chord progression calculator the dynamically changes based off the chords of a key/scale the user chooses. 
+After this project I intend to move on to building a native mobile app using Ionic and Capacitor. My idea right now is for an songwriting assistant app, with the main functionality being a chord progression calculator the dynamically changes based off the chords of a key/scale the user chooses. 
 
 My last few projects:
 
