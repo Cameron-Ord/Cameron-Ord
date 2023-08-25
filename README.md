@@ -8,7 +8,7 @@ What I currently have knowledge & experience in: JavaScript, Python, HTML, CSS, 
 
 I run Linux as my OS(Arch, Mint).
 
-What I'm currently working on:
+What I'm currently working on: (link(https://github.com/Cameron-Ord/UnderrailCharacterBuilder))
 
 Right now, as I mentioned, I am exploring what I can make with c++. I decided to give SDL2 a try and have been working on that. 
 I am also working on a python/C++ project that uses python for the GUI and runs C++ as a subprocess. The goal of the end product is to be a desktop executable application that a user can use to generate a viable build in the video game Underrail based off some selectors and inputs.
