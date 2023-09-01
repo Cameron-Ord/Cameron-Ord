@@ -10,13 +10,16 @@ What I currently have knowledge & experience in: JavaScript, Python, HTML, CSS, 
 
 I run Linux as my OS(Arch, Mint).
 
-What I'm currently working on: (link(https://github.com/Cameron-Ord/UnderrailCharacterBuilder))
+What I'm currently working on:
+## https://github.com/Cameron-Ord/UnderrailCharacterBuilder
 
 My last few projects:
 
 Dagoth Ur Discord Bot: A relatively simple discord bot, it uses openAIs API and the chat-gpt 3.5 turbo model to generate responses. It plays it's character, Dagoth Ur. It also has some limited wiki bot functionality using bs4 and requests to scrape the morrowind page from the UESP wiki based off user input, if the user input matches any of the a tags on the page, it will supply the related link. Take a look at the code in this repo!: https://github.com/Cameron-Ord/Dagoth-Discord-Bot
 
-Photography webpage: A fullstack application that hosts images that I personally take. It uses python and mariadb, with the frontend being Vue.js. This was my first real web application, I'm proud of it, but I still have a lot to work on! https://photography.cameron-ord.online/#/
+Photography webpage: A fullstack application that hosts images that I personally take. It uses python and mariadb, with the frontend being Vue.js. This was my first real web application, I'm proud of it, but I still have a lot to work on! 
+
+## https://photography.cameron-ord.online/#/
 
 if you wish to contact me, here is my email! : 
 
