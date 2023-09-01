@@ -18,7 +18,7 @@ I run Linux as my OS(Arch, Mint).
 ###  What I want to learn:
 #### Java, React.js, Go(after C++)  
 
-### What I want to build next:
+## What I want to build next:
 #### A native mobile app
 #### Desktop music player (C++)
 
