@@ -15,7 +15,7 @@ I run Linux as my OS(Arch, Mint).
 ## https://github.com/Cameron-Ord/UnderrailCharacterBuilder
 ## https://github.com/Cameron-Ord/JsMusicGenerator
   
-###  What I want to learn:
+##  What I want to learn:
 #### Java, React.js, Go(after C++)  
 
 ## What I want to build next:
