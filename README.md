@@ -1,4 +1,4 @@
-Online portfolio: A simple frontend deployment, lists my projects, skills, tied together with a nice about me. You can view my projects and their respective websites(if they have one), as well as download my CV, and view my linkedin or github.
+### View my online portfolio!
 ## https://portfolio.cameron-ord.online/#/
 
 Hi There!
