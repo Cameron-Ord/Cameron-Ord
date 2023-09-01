@@ -10,16 +10,16 @@ I'm know C++, but I am not as fluent in it as other languages(im currently worki
 
 I run Linux as my OS(Arch, Mint).
 
-## What I want to learn:
-### Java, React.js, Go(after C++)
+###  What I want to learn:
+#### Java, React.js, Go(after C++)
 
 ### What I'm currently working on:
 ## https://github.com/Cameron-Ord/UnderrailCharacterBuilder
 ## https://github.com/Cameron-Ord/JsMusicGenerator
 
-## What I want to build next:
-### A native mobile app
-### Desktop music player (C++)
+### What I want to build next:
+#### A native mobile app
+#### Desktop music player (C++)
 
 ### My last few projects:
 
