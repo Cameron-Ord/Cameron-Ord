@@ -4,15 +4,22 @@
 ## Hi There!
 I'm Cameron, A new Junior Developer based in Edmonton, AB. I specialize in online web applications. I love coding, and while I mainly build websites; alot of the time you will find me working on projects unrelated to strictly Web Development.
 
-I'm know C, C++ on a basic level.
+I'm know C++, but I am not as fluent in it as other languages(im currently working on projects that involve C++).
 
 #### What I currently have knowledge & experience in: JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache and an oracle VM for my webhosting.
 
 I run Linux as my OS(Arch, Mint).
 
+## What I want to learn:
+### Java, React.js, Go(after C++)
+
 ### What I'm currently working on:
 ## https://github.com/Cameron-Ord/UnderrailCharacterBuilder
 ## https://github.com/Cameron-Ord/JsMusicGenerator
+
+## What I want to build next:
+### A native mobile app
+### Desktop music player (C++)
 
 ### My last few projects:
 
