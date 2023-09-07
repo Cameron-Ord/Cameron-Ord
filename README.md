@@ -2,7 +2,7 @@
 ### https://portfolio.cameron-ord.online/#/
 
 # Hi There!
-I'm Cameron, A new Junior Developer based in Edmonton, AB. I specialize in online web applications. I love coding, and while I mainly build websites; alot of the time you will find me working on projects unrelated to strictly Web Development.
+I'm Cameron, A Junior Developer based in Edmonton, AB.
 
 I'm know C++, but I am not as fluent in it as other languages(im currently working on projects that involve C++).
 
