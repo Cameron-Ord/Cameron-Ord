@@ -9,14 +9,15 @@
 ## What I currently have knowledge & experience in: 
 #### JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache and an oracle VM for my webhosting.
 
-I run Linux as my OS(Arch, Mint).
+* I run Linux as my OS(Arch, Mint).
 
 ## What I'm currently working on:
 #### https://github.com/Cameron-Ord/UnderrailCharacterBuilder
 #### https://github.com/Cameron-Ord/JsMusicGenerator
   
 ## What I want to learn:
-#### Java, React.js, Go(after C++)  
+
+* Java, React.js, Go  
 
 ## My last few projects:
 
