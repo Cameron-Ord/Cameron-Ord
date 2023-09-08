@@ -2,7 +2,7 @@
 ### https://portfolio.cameron-ord.online/#/
 
 # Hi There!
-I'm Cameron, A Junior Developer based in Edmonton, AB.
+#### I'm Cameron, A Junior Developer based in Edmonton, AB.
 
 * I know C++, but I am not as fluent in it as other languages(im currently working on projects that involve C++).
 
@@ -11,11 +11,11 @@ I'm Cameron, A Junior Developer based in Edmonton, AB.
 
 I run Linux as my OS(Arch, Mint).
 
-## * What I'm currently working on:
+## What I'm currently working on:
 #### https://github.com/Cameron-Ord/UnderrailCharacterBuilder
 #### https://github.com/Cameron-Ord/JsMusicGenerator
   
-## * What I want to learn:
+## What I want to learn:
 #### Java, React.js, Go(after C++)  
 
 ## My last few projects:
