@@ -27,6 +27,3 @@
 
 #### https://photography.cameron-ord.online/#/
 
-If you wish to contact me, here is my email: 
-
-#### cameron.ian.ronald.ord@outlook.com
