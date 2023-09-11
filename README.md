@@ -29,4 +29,4 @@
 
 If you wish to contact me, here is my email: 
 
-#### * cameron.ian.ronald.ord@outlook.com
+#### cameron.ian.ronald.ord@outlook.com
