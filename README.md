@@ -10,7 +10,6 @@
 * I run Linux as my OS(Mint, Debian, Fedora, Arch, Ubuntu).
 
 ## What I'm currently working on:
-#### https://github.com/Cameron-Ord/UnderrailCharacterBuilder
 #### https://github.com/Cameron-Ord/JsMusicGenerator
   
 ## What I want to learn:
@@ -19,11 +18,15 @@
 
 ## My last few projects:
 
-1. Dagoth Ur Discord Bot: A relatively simple discord bot, it uses openAIs API and the chat-gpt 3.5 turbo model to generate responses. It plays it's character, Dagoth Ur. It also has some limited wiki bot functionality using bs4 and requests to scrape the morrowind page from the UESP wiki based off user input, if the user input matches any of the a tags on the page, it will supply the related link. Take a look at the code in this repo!:
+1. Underrail Build Calculator: A build calculator for the video game Underail. It takes user inputs for stats, skills, and an optional build outline. With which it generates the relevant feats for the input you provide it. This makes it easy to get an idea of what you will need for any build you run, if you select a optional outline it will highlight the relevant feats to make it easier to pick out exactly what you need. While this is essentially finished, there are still things I need to fine tune/add some logic for. I also need to manually add some feats, as when I scraped the wiki site for data, I did not get every single feat in the game that could be applicable to the program.
+
+#### https://github.com/Cameron-Ord/UnderrailCharacterBuilder
+
+2. Dagoth Ur Discord Bot: A relatively simple discord bot, it uses openAIs API and the chat-gpt 3.5 turbo model to generate responses. It plays it's character, Dagoth Ur. It also has some limited wiki bot functionality using bs4 and requests to scrape the morrowind page from the UESP wiki based off user input, if the user input matches any of the a tags on the page, it will supply the related link. Take a look at the code in this repo!:
 
 #### https://github.com/Cameron-Ord/Dagoth-Discord-Bot
 
-2. Photography webpage: A fullstack application that hosts images that I personally take. It uses python and mariadb, with the frontend being Vue.js. This was my first real web application, I'm proud of it, but I still have a lot to work on! 
+3. Photography webpage: A fullstack application that hosts images that I personally take. It uses python and mariadb, with the frontend being Vue.js. This was my first real web application, I'm proud of it, but I still have a lot to work on! 
 
 #### https://photography.cameron-ord.online/#/
 
