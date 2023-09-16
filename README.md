@@ -15,7 +15,7 @@
   
 ## What I want to learn:
 
-* Java, React.js, Go  
+* Java, Go  
 
 ## My last few projects:
 
