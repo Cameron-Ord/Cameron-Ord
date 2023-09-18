@@ -10,9 +10,9 @@
 * I run Linux as my OS(Mint, Debian, Fedora, Arch, Ubuntu).
 
 ## What I'm currently working on:
-#### https://github.com/Cameron-Ord/JsMusicGenerator
+#### https://github.com/Cameron-Ord/Bird-Species-Wikipedia
   
-## What I want to learn:
+## Coding languages I am learning:
 
 * Java, Go  
 
