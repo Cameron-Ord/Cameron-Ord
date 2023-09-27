@@ -7,7 +7,7 @@
 ## What I currently have knowledge & experience in: 
 #### JavaScript, Python, HTML, CSS, SASS, MariaDB, Vue.js, node.js, and the DOM. I use Apache and an oracle VM for my webhosting. I have some experience with C++ as well.
 
-* I run Linux as my OS(Mint, Debian, Fedora, Arch, Ubuntu). (I mostly use Debian these days) 
+* I run Linux as my OS(Mint, Debian, Fedora, Arch, Ubuntu). (I mostly use Debian/Fedora these days) 
 
 ## What I'm currently working on:
 #### https://github.com/Cameron-Ord/Bird-Species-Wikipedia
