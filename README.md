@@ -1,16 +1,8 @@
 ### <div align="left">I'm Cameron, a full-stack developer based in Edmonton, Alberta.</div>  
   
-
 - 🌱 I’m currently learning Go  
   
-
-<br/>  
-
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="left">  
@@ -24,8 +16,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>  
 
-
-
 ### Coding Languages
   
 <div align="left">  
@@ -36,9 +26,6 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -52,9 +39,6 @@
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="left">  
@@ -62,10 +46,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
