@@ -1,6 +1,6 @@
 ### <div align="left">I'm Cameron, a full-stack developer based in Edmonton, Alberta.</div>  
   
-- 🌱 I’m currently learning Go and Java(I know the basics)
+- 🌱 I’m currently working on my frontend skills
   
 ## My Skill Set  
 
