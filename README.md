@@ -4,7 +4,7 @@ I'm Cameron, a passionate full-stack developer with a love for creating robust a
 
 ## 💻 Development Environment
 - **OS**: Fedora Linux / Debian
-- **Window Manager / Desktop Environment**: i3 or KDE
+- **Window Manager**: i3 
 - **Editor**: VSCode or Neovim, depending on the mood
 - **Terminal**: Kitty
 
