@@ -2,6 +2,12 @@
 
 I'm Cameron, a passionate full-stack developer with a love for creating robust and efficient solutions. I thrive on tackling challenging problems and turning ideas into reality. Here's a glimpse into my tech world:
 
+## 💻 Development Environment
+- **OS**: Fedora Linux
+- **Window Manager**: i3
+- **Editor**: VSCode or Neovim, depending on the mood
+- **Terminal**: Kitty
+
 ## 🔧 Technologies & Languages
 - **Python**: My go-to language for versatile and powerful applications.
 - **Golang**: I enjoy the efficiency and performance it brings to the table.
