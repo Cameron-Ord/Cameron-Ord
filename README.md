@@ -16,7 +16,7 @@ I'm Cameron, a passionate full-stack developer with a love for creating robust a
 - Constantly learning and evolving in the ever-changing tech landscape.
 
 ## 📫 Let's Connect!
-- **LinkedIn**: (https://www.linkedin.com/in/camord34/)
+- **LinkedIn**: ([https://www.linkedin.com/in/camord34/](https://ca.linkedin.com/in/camord34))
 - **Portfolio**: (https://portfolio.cameron-ord.online)
 
 Feel free to explore my repositories and don't hesitate to reach out. I am interested in working with other developers, whether it's new territory for me; or familiar!
