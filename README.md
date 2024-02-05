@@ -17,6 +17,7 @@ I'm Cameron, a passionate full-stack developer with a love for creating robust a
 - **MySQL**: Managing and optimizing databases for seamless data operations.
 
 ## 🚀 What I'm Currently Up To
+- Reading wayland and wlroots documentation, exploring the possibilty of creating my own compositor.
 - Exploring new ways to enhance web applications.
 - Building my skills by developing real-world use applications, as well as random stuff for fun.
 - Constantly learning and evolving in the ever-changing tech landscape.
