@@ -1,6 +1,6 @@
 # Hi there! 👋
+I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 
-I'm Cameron, a passionate full-stack developer from Halifax, Nova Scotia.
 ## Development Environment
 - **OS**: Fedora / Debian
 - **Window Manager**: i3 or bspwm
