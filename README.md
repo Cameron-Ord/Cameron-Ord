@@ -1,29 +1,22 @@
 # Hi there! 👋
 
-I'm Cameron, a passionate full-stack developer with a love for creating robust and efficient solutions. I thrive on tackling challenging problems and turning ideas into reality. Here's a glimpse into my tech world:
-
-## 💻 Development Environment
+I'm Cameron, a passionate full-stack developer from Halifax, Nova Scotia.
+## Development Environment
 - **OS**: Fedora / Debian
 - **Window Manager**: i3 or bspwm
 - **Editor**: Emacs
 - **Terminal**: Kitty
 
-## 🔧 Technologies & Languages
-- **Python**: My go-to language for versatile and powerful applications.
-- **Golang**: I enjoy the efficiency and performance it brings to the table.
-- **JavaScript & TypeScript**: Crafting dynamic and interactive front-end experiences.
-- **C/C++**: Delving into low-level programming(mostly just for fun).
-- **Vue.js**: Building modern and responsive user interfaces.
-- **MySQL**: Managing and optimizing databases for seamless data operations.
+## Languages
+- **C**
+- **Go**
+- **Python**
+- **JavaScript/Typescript**
+- **MySQL**
 
-## 🚀 What I'm Currently Up To
-- Lookin at wayland documentation, getting more into SDL. Considering checking out raylib.
-- Exploring new ways to enhance web applications.
-- Building my skills by developing real-world use applications, as well as random stuff for fun.
-- Constantly learning and evolving in the ever-changing tech landscape.
+## JavaScript Libraries | Frameworks
+- **Vue.js**
 
-## 📫 Let's Connect!
-- **LinkedIn**: ([https://www.linkedin.com/in/camord34/](https://ca.linkedin.com/in/camord34))
-- **Portfolio**: (https://portfolio.cameron-ord.online)
-
-Feel free to explore my repositories and don't hesitate to reach out. I am interested in working with other developers, whether it's new territory for me; or familiar!
+## What I'm currently working on
+1. A programmable synthesizer : https://github.com/Cameron-Ord/sdl2_graphical_synth
+2. Underrail Feat Generator : https://github.com/Cameron-Ord/Underrail-Feat-Calculator
