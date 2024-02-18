@@ -1,6 +1,11 @@
 # Hi there! 👋
 I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 
+## Development Environment
+- OS : **Fedora / Debian**
+- DE/WM : **BSPWM**
+
+
 ## Languages
 - **C**
 - **Go**
