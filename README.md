@@ -1,12 +1,6 @@
 # Hi there! 👋
 I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 
-## Development Environment
-- **OS**: Fedora / Debian
-- **Window Manager**: i3 or bspwm
-- **Editor**: Emacs
-- **Terminal**: Kitty
-
 ## Languages
 - **C**
 - **Go**
