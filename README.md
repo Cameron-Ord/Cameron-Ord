@@ -18,5 +18,5 @@ I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 
 ## What I'm currently working on
 1. A programmable synth.
-2. an SDL2 based musuc visualizer
+2. An SDL2 based music visualizer
 3. Underrail Feat Generator : https://github.com/Cameron-Ord/Underrail-Feat-Calculator
