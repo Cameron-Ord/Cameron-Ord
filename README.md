@@ -3,7 +3,7 @@ I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 
 ## Development Environment
 - OS : **Fedora / Debian**
-- DE/WM : **BSPWM/i3**
+- DE/WM : **i3**
 
 
 ## Languages
@@ -18,6 +18,6 @@ I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 
 ## What I'm currently working on
 1. A programmable synth.
-2. An SDL2 based music visualizer
+2. Messing around with Xlib and X.Org 
 3. Underrail Feat Generator : https://github.com/Cameron-Ord/Underrail-Feat-Calculator
 4. Various frontend sites with Vue
