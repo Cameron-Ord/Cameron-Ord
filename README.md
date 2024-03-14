@@ -18,6 +18,6 @@ I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 
 ## What I'm currently working on
 1. A programmable synth.
-2. Messing around with Xlib and X.Org 
+2. Messing around with XCB and X.Org 
 3. Underrail Feat Generator : https://github.com/Cameron-Ord/Underrail-Feat-Calculator
 4. Various frontend sites with Vue
