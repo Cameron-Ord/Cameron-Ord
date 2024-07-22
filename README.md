@@ -13,4 +13,4 @@ I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 
 ## Databases
 
--- **MariaDB**
+- **MariaDB**
