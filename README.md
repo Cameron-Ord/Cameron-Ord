@@ -9,5 +9,5 @@ I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
 - **MySQL**
 
 ## JavaScript Libraries | Frameworks
-- **Vue.js**
+- **Vue.js** (vue2 - vue3)
 
