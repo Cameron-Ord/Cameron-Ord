@@ -1,16 +1,17 @@
 # Hi there! 👋
-I'm Cameron, a passionate full-stack developer based in Edmonton, Alberta.
+I'm just a guy that programs for fun.
 
-## Languages
-- **C**
+My favourite languages:
+- **C/C++**
 - **Go**
 - **Python**
-- **JavaScript/Typescript**
-- **MySQL**
 
-## JavaScript Libraries | Frameworks
-- **Vue.js** (vue2 - vue3)
 
-## Databases
+Languages I hate:
+- **Java**
+- **C++**
+- **Python**
 
-- **MariaDB**
+Languages I am learning:
+
+- **Rust**
