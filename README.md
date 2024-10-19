@@ -1,11 +1,12 @@
 # Hi there! 👋
 I'm just a guy that programs for fun.
 
-My favourite languages:
+## My favourite languages:
 - **C/C++**
 - **Go**
 - **Python**
-Languages I(kind of) am learning:
+
+## Languages I(kind of) am learning:
 - **Rust**
 
 My goals:
