@@ -5,17 +5,8 @@ My favourite languages:
 - **C/C++**
 - **Go**
 - **Python**
-
-
-Languages I hate:
-- **Java**
-- **C++**
-- **Python**
-
-Languages I am learning:
-
+Languages I(kind of) am learning:
 - **Rust**
-
 
 My goals:
 
