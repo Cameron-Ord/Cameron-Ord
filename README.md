@@ -10,6 +10,4 @@ I'm just a guy that programs for fun.
 - **Rust**
 
 ## My goals:
-Make a pretty good graphical text editor in C using SDL with some OpenGL potentially mixed in along with it. (Not really a strong requirement though as i want to finish it). The goal is to implement nice text editing features, not special effects.
-
-Mess around with the wayland protocol and see if i am not stupid enough to do something with it using wlroots.
+Make a pretty good graphical text editor in C using SDL with some OpenGL potentially mixed in along with it.
