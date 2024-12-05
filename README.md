@@ -7,5 +7,5 @@ I'm just a guy that programs for fun.
 - **Python**
 
 ## What im currently doing:
-Learning opengl
-Creating my portfolio website
+- Learning opengl
+- Creating my portfolio website
