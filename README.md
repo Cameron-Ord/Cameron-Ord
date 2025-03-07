@@ -8,4 +8,4 @@ I'm just a guy that programs for fun.
 
 ## What im currently doing:
 
-- Working on svte. A graphical text editor with an SDL2 backend, leveraging TTF for vector fonts.
+- Working on svte. A graphical text editor with an SDL2 backend, using SDL TTF for vector fonts.
