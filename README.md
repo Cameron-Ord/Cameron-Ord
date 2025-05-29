@@ -1,11 +1,4 @@
 # Hi there! 👋
-I'm just a guy that programs for fun.
+I'm just a guy that programs in C for fun.
+I'm prototyping/reworking a bunch of stuff so it's hidden until I feel like they are atleast halfway ready
 
-## My favourite languages:
-- **C/C++**
-- **Go**
-- **Python**
-
-## What im currently doing:
-
-- Working on svte. A graphical text editor with an SDL2 backend, using SDL TTF for vector fonts.
